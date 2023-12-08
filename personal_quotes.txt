@@ -1,2 +1,2 @@
-PersonalQuote_changeMasterBranch
+PersonalQuote_changePersonal_Quote
 
